@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working with global client teams to build state-of-the-art AI products. I have worked in the domains of Recommendation System, Handwritten character recognition system, waste classification system, Computer Vision Systems, etc.
+- 🔭 I’m currently working with global client teams to build state-of-the-art AI products. I have worked in the domains of Recommendation System, Handwritten character recognition system, Computer Vision Systems, etc.
 - ✍️ I write [blog posts](https://shahayush.com) that reflect my new learnings mostly related to python and AI.
 - 🌱 I’m currently learning fundamental concepts and advancements in NLP and Computer Vision.
 - 📫 You can follow me on my [twitter](https://twitter.com/ayushkumarshah7) or [LinkedIn](https://www.linkedin.com/in/ayush7/)
