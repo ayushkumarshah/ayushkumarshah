@@ -1,4 +1,4 @@
-### Hi there 👋 , I am Ayush Kumar Shah, an AI enthisiast.
+### Hi there 👋 , I am Ayush Kumar Shah, an AI enthusiast.
 
 <!--
 **ayushkumarshah/ayushkumarshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
