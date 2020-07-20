@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 You can follow me on my [twitter](https://twitter.com/ayushkumarshah7) or [LinkedIn](https://www.linkedin.com/in/ayush7/)
 - 📃 You can view my resume here: [My Resume](https://shahayush.com/assets/pdfs/CV_AyushKumarShah.pdf)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ayushkumarshah&show_icons=true&hide=["stars"])
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushkumarshah&show_icons=true&hide=["stars"]&hide_border=true)
 
 
 ## Some additional pinned repositories
