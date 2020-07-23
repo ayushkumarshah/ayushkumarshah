@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with global client teams to build state-of-the-art AI products. I have worked in the domains of Recommendation System, Handwritten character recognition system, Computer Vision Systems, etc.
 - ✍️ I write [blog posts](https://shahayush.com) that reflect my new learnings mostly related to python and AI.
 - 🌱 I’m currently learning fundamental concepts and advancements in NLP and Computer Vision.
-- 📫 You can follow me on my [twitter](https://twitter.com/ayushkumarshah7) or [LinkedIn](https://www.linkedin.com/in/ayush7/)
 - 📃 You can view my resume here: [My Resume](https://shahayush.com/assets/pdfs/CV_AyushKumarShah.pdf)
+- 📫 You can follow me on my [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) or [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ayush7/)
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushkumarshah&show_icons=true&hide=["stars"]&hide_border=true)
 
