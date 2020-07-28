@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ✍️ I write [blog posts](https://shahayush.com) that reflect my new learnings mostly related to python and AI.
 - 🌱 I’m currently learning fundamental concepts and advancements in NLP and Computer Vision.
 - 📃 You can view my resume here: [My Resume](https://shahayush.com/assets/pdfs/CV_AyushKumarShah.pdf)
-- 📫 You can follow me on my [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) or [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ayush7/)
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=Connect&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ayush7/) [![HitCount](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah.svg)](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah)
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushkumarshah&show_icons=true&hide=["stars"]&hide_border=true)
 
