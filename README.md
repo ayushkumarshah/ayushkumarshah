@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning fundamental concepts and advancements in NLP and Computer Vision.
 - 📃 You can view my resume here: [My Resume](https://shahayush.com/assets/pdfs/CV_AyushKumarShah.pdf)
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=Connect&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ayush7/) [![HitCount](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah.svg)](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Linkedin: ayush7](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush7/)](https://www.linkedin.com/in/ayush7/) [![HitCount](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah.svg)](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah)
+
+# My latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+# My latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushkumarshah&show_icons=true&hide=["stars"]&hide_border=true)
-
 
 ## Some additional pinned repositories
 
@@ -40,8 +47,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/ayushkumarshah/Missionaries-and-Cannibals-Game">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah&repo=Missionaries-and-Cannibals-Game&show_icons=true" />
 </a>
-
-
-
-
-
