@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Linkedin: ayush7](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush7/)](https://www.linkedin.com/in/ayush7/) [![HitCount](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah.svg)](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah)
 
-# My latest Blog posts
+### My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# My latest YouTube Videos
+### My latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushkumarshah&show_icons=true&hide=["stars"]&hide_border=true)
 
-## Some additional pinned repositories
+### Some additional pinned repositories
 
 <a href="https://github.com/ayushkumarshah/ayushkumarshah.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah&repo=ayushkumarshah.github.io&show_icons=true" />
