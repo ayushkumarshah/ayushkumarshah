@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 ### My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Organize pandas notebook with cool hacks](https://shahayush.com//2020/06/pandas-pipe-plotly/)
+- [Part 5 - Integrate Disqus comments and Google Analytics with Pelican](https://shahayush.com//2020/05/web-pelican-pt5-disqus-analytics/)
+- [Part 4 - Setting up Travis-CI for automating deployment](https://shahayush.com//2020/05/web-pelican-pt4-travisci/)
+- [Part 3 - Hosting your website to GitHub Pages and custom domain](https://shahayush.com//2020/03/web-pelican-pt3-hosting/)
+- [Part 2 - Writing content using Markdown](https://shahayush.com//2020/03/web-pelican-pt2-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube Videos
