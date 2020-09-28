@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working with global client teams to build state-of-the-art AI products. I have worked in the domains of Recommendation System, Handwritten character recognition system, Computer Vision Systems, etc.
+- 🔭 I am a Ph.D. student at Rochester Institute of Technology and one of the members of the [MathSeer project,](https://www.cs.rit.edu/~dprl/mathseer/) which is a system to make finding mathematical information easier. I am conducting research under Prof. Richard Zanibbi to create innovative search engines, interfaces, and algorithms for extracting and recognizing math.
 - ✍️ I write [blog posts](https://shahayush.com) that reflect my new learnings mostly related to python and AI.
 - 🌱 I’m currently learning fundamental concepts and advancements in NLP and Computer Vision.
 - 📃 You can view my resume here: [My Resume](https://shahayush.com/assets/pdfs/CV_AyushKumarShah.pdf)
