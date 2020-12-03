@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### Some additional pinned repositories
 
-<a href="https://github.com/ayushkumarshah/ayushkumarshah.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah&repo=ayushkumarshah.github.io&show_icons=true" />
-</a>
 <a href="https://github.com/ayushkumarshah/wiki">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah&repo=wiki&show_icons=true" />
+</a>
+<a href="https://github.com/ayushkumarshah/scripting_basics">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah&repo=scripting_basics&show_icons=true" />
 </a>
 <a href="https://github.com/ayushkumarshah/dotfiles-mac">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah&repo=dotfiles-mac&show_icons=true" />
