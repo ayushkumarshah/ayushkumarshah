@@ -10,13 +10,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I am a Ph.D. student at Rochester Institute of Technology and one of the members of the [MathSeer project,](https://www.cs.rit.edu/~dprl/mathseer/) which is a system to make finding mathematical information easier. I am conducting research under Prof. Richard Zanibbi to create innovative search engines, interfaces, and algorithms for extracting and recognizing math.
+- 🔭 I am a Ph.D. student at Rochester Institute of Technology and one of the members of 
+    the [MathSeer project,](https://www.cs.rit.edu/~dprl/mathseer/) which is a system to 
+    make finding mathematical information easier. I am conducting research under 
+    [Prof. Richard Zanibbi](https://www.cs.rit.edu/~rlaz/) to create innovative search engines, interfaces, and algorithms for extracting and recognizing math.
 - ✍️ I write [blog posts](https://shahayush.com) that reflect my new learnings mostly related to python and AI.
 - 🌱 I’m currently learning fundamental concepts and advancements in recognition
-    (parsing) of graphical information from documents
+    (parsing) of graphical information from documents.
 - 📃 You can view my resume here: [My Resume](https://shahayush.com/assets/pdfs/CV_AyushKumarShah.pdf)
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Linkedin: ayush7](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush7/)](https://www.linkedin.com/in/ayush7/) [![HitCount](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah.svg)](http://hits.dwyl.com/ayushkumarshah/ayushkumarshah)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Linkedin: ayush7](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush7/)](https://www.linkedin.com/in/ayush7/) 
 
 ### My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
