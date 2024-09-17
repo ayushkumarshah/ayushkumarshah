@@ -10,14 +10,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I am a Ph.D. student at Rochester Institute of Technology and one of the members of 
-    the [MathSeer project,](https://www.cs.rit.edu/~dprl/mathseer/) which is a system to 
-    make finding mathematical information easier. I am conducting research under 
-    [Prof. Richard Zanibbi](https://www.cs.rit.edu/~rlaz/) to create innovative search engines, interfaces, and algorithms for extracting and recognizing math.
-- ✍️ I write [blog posts](https://shahayush.com) that reflect my new learnings mostly related to python and AI.
+- 🔭 I’m a fifth-year Ph.D. candidate at Rochester Institute of Technology (RIT), conducting research at the [Document and Pattern Recognition Lab (DPRL)](https://www.cs.rit.edu/~dprl/), under the mentorship of [Dr. Richard Zanibbi]((https://www.cs.rit.edu/~rlaz/)).
+- 💡 My work centers around designing fast, efficient, and interpretable parsers for recognizing complex mathematical and chemical formulas. I explore graphical notations across multiple formats, including PDFs, typeset images, and handwritten strokes. Through graph attention-based techniques, I aim to enhance how contextual information is processed, while preserving a natural and interpretable graph representation.
+- 🎯 My goal is to deliver high accuracy in formula recognition through models that are not only faster but also easier to interpret than traditional encoder-decoder architectures.
+- 💻 Recently, I developed ChemScraper, a molecule diagram parser that extracts characters and graphics directly from PDF molecule images. By utilizing typesetting instructions and simple graph transformations, it generates both visual and chemical graphs — without the need for OCR, GPUs, or vectorization. ChemScraper offers a practical approach to creating fine-grained, annotated datasets for training visual parsers, and also a visual parser for parsing molecule images (raster) directly.
+- 🌐 Research interests: Pattern recognition, recognition of graphical structures, computer vision, speaker understanding, large language models, multi-modal deep learning, natural language processing .
+- ✍️ I write [blog posts](https://shahayush.com/year-archive/) that reflect my new learnings mostly related to python and AI.
 - 🌱 I’m currently learning fundamental concepts and advancements in recognition
     (parsing) of graphical information from documents.
-- 📃 You can view my resume here: [My Resume](https://shahayush.com/assets/pdfs/CV_AyushKumarShah.pdf)
+- 📃 You can view my CV here: [My CV](https://shahayush.com/files/CV_AyushKumarShah_current.pdf)
+- Personal website: [shahayush.com](https://shahayush.com)
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Linkedin: ayush7](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush7/)](https://www.linkedin.com/in/ayush7/) 
 
