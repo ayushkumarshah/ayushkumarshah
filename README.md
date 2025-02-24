@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ✍️ I write [blog posts](https://shahayush.com/year-archive/) that reflect my new learnings mostly related to python and AI.
 - 🌱 I’m currently learning fundamental concepts and advancements in recognition
     (parsing) of graphical information from documents.
-- 📃 You can view my CV here: [My CV](https://shahayush.com/files/CV_AyushKumarShah_current.pdf)
+- 📃 You can view my Resume here: [My Resume](https://shahayush.com/files/Resume_AyushKumarShah_current.pdf)
 - Personal website: [shahayush.com](https://shahayush.com)
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/ayushkumarshah7) [![Linkedin: ayush7](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush7/)](https://www.linkedin.com/in/ayush7/) 
