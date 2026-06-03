@@ -1,8 +1,10 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+  # Auto-update disabled: the blog-post section is commented out in README.md.
+  # To re-enable: uncomment the section, restore its BLOG-POST-LIST markers,
+  # and re-add the hourly schedule below.
+  #   schedule:
+  #     - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
